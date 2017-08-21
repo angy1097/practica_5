@@ -1,0 +1,73 @@
+<doctype html>
+<html>
+<head>
+<meta charset="UTF=8"/> 
+
+<title>practica4</title>
+</head>
+
+<body background=fondo.jpg">
+<font face="century gothic" size="3" color="black">
+  <h1>LENGUAJES DE PROGRAMACIÓN</h1>
+  </font>
+  
+  <table width="80%" bgcolor="pink" border="2">
+   <tr>
+    <td><h2> Los 7 lenguajes mejor pagados del mundo</h2></td>
+	<td><ul>
+   <li tipe= "squart">C </li>
+   <li tipe= "squart">JavaScript </li>
+   <li tipe= "squart">C++ </li>
+   <li tipe= "squart">Java </li>
+   <li tipe= "squart">Python</li>
+   <li tipe= "squart">Objetive c</li>
+   <li tipe= "squart">ruby on rails</li>
+   </ul>
+  <td> <img src="imagen1.jpg" width="400" height="200" alt="Alt Text"/> </td>
+   </td>
+   </tr>
+   
+      <tr>
+	  <td><H2>LENGUAJES DE PROGRAMACION WEB</H2></td>
+	<td>
+	<ol>
+   <li tipe= "squart">HTML</li>
+   <li tipe= "squart">JavaScript </li>
+   <li tipe= "squart">PHP </li>
+   <li tipe= "squart">ASP</li>
+   <li tipe= "squart">JSP</li>
+   <li tipe= "squart">RUBY</li>
+   <li tipe= "squart">CSS </li>
+   </ol></td>
+    <td> <img src="imagen2.jpg" width="400" height="200" alt="Alt Text"/> </td>
+	  </tr>
+	  
+	  <tr>
+	 <td> <H2>ACRONIMOS INTERESANTES</H2></td>
+	 <td>
+	 <dl>
+    <dt>HTLM </dt>
+	<dd> HiperText Markup languaje</dd>
+	<dt>W3C</dt>
+	<dd>World Wite Web Consorsion </dd>
+	<dt>PHP </dt>
+	<dd>PHP HiperText pre-processor </dd>
+	<dt>CSS </dt>
+	<dd> Cascadin Style sheets </dd>
+    </dl>
+	 <td> <img src="imagen3.jpg" width="400" height="200" alt="Alt Text"/> </td>
+	</td>
+	  </tr>
+	  
+	 
+  </table>
+  </body>
+  
+   
+   
+   
+   
+   
+	  
+</body>
+</html>
